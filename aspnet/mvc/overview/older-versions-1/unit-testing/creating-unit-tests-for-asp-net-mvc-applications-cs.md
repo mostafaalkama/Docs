@@ -81,7 +81,7 @@ First, the `Details()` action creates a new instance of the `Product` class that
 
 You can write unit tests to test whether the expected data is contained in view data. The unit test in Listing 4 tests whether or not a Product representing a laptop computer is returned when you call the `ProductController Details()` action method.
 
-**Listing 4 – `ProductControllerTest.cs`**
+**Listing 4 – `ProductControllerTest.cs`***
 
 [!code-csharp[Main](creating-unit-tests-for-asp-net-mvc-applications-cs/samples/sample6.cs)]
 
